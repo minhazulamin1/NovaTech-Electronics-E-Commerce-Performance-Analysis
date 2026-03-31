@@ -2,7 +2,7 @@
 <img width="553" height="172" alt="Gemini_Generated_Image_umam72umam72umam-removebg-preview" src="https://github.com/user-attachments/assets/28bb1f71-5ddf-4f03-87dc-5e083f9d2b53" />
 </div>
 
-# NovaTech-Electronics-E-Commerce-Performance-Analysis
+# NovaTech Electronics E-Commerce Performance Analysis
 
 ## Project Background
 
