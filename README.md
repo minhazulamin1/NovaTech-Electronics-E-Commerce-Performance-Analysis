@@ -62,9 +62,9 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 **Decomposing by acquisition source:** Direct traffic (83% of revenue) declined in absolute terms but held share. Email grew from 13.7% to 15.7%, the only channel with positive trajectory. The decline is a demand problem, not a channel-mix problem.
 
-**Decomposing by customer behaviour:** 80.2% of customers are single-purchase buyers generating €248 in lifetime value. The 19.8% who return generate €616 in lifetime value (2.5x more) with a lower refund rate. The business is an acquisition machine with a weak retention engine.
+**Decomposing by customer behaviour:** 80.2% of customers are single-purchase buyers generating €248 in lifetime value. The business is an acquisition machine with a weak retention engine as chance of repeat is 17.4%.
 
-<h3 id="overview-of-key-findings">Overview of Key Findings</h3>
+**Overview of Key Findings**
 
 <h4>🟢 Three Areas of Strength</h4>
 <table width="100%">
@@ -88,8 +88,8 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
     </tr>
     <tr>
       <td><b>Customer Value</b></td>
-      <td>Returning customers generate <b>€616 LTV</b> (2.5x higher than one-time buyers).</td>
-      <td>Top 10% of customers drive <b>45.4%</b> of total revenue.</td>
+      <td>80.2% of customers never place a second order, with one-time buyers averaging €248 per order. 19.8% who return average €283 per order. 2.5x higher in lifetime value. </td>
+      <td>The top 10% of customers drive 45.4% of total revenue.</td>
     </tr>
   </tbody>
 </table>
@@ -352,7 +352,7 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
       <hr>
       Redesigning incentives around return visits, rather than just basket value, is the highest-leverage change available. 
       <br><br>
-      If NovaTech converted just <b>5% of one-time buyers</b> to repeat customers at the returning-customer lifetime value of €616, it would generate approximately <b>€1.7M in incremental annual revenue</b>. 
+     If NovaTech converted just 5% of one-time buyers, those currently averaging €248 per order, into returning customers averaging €283, it would generate approximately €1.7M in incremental annual revenue, a 34% lift on the 2022 revenue base with zero acquisition cost.
       <br><br>
       This represents a <b>34% lift</b> on the 2022 revenue base, achieved with minimal cost since these customers already exist in the database.
     </td>
