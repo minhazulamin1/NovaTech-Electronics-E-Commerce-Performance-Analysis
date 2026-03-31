@@ -64,17 +64,65 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 **Decomposing by customer behaviour:** 80.2% of customers are single-purchase buyers generating €248 in lifetime value. The 19.8% who return generate €616 in lifetime value (2.5x more) with a lower refund rate. The business is an acquisition machine with a weak retention engine.
 
-**Overview of Key Findings**
+<h3 id="overview-of-key-findings">Overview of Key Findings</h3>
 
-**Three things going well:**
-1. Loyalty programme adoption is accelerating. Members reached 54.8% of revenue in 2022, up from 10.7% in 2019, overtaking non-members in 2021. Member AOV (€245) overtook non-member AOV (€214) for the first time in 2022. Members also spend 15% more on Gaming Monitors (€457 vs €397) and 9% more on MacBooks (€1,721 vs €1,574), indicating the programme shifts purchasing behaviour toward higher-spec variants, not just volume.
-2. Email is the only growing acquisition channel. Email nearly doubled its revenue share from 8.1% to 15.7%. Refund rates for email customers (4.8%) are in line with direct and affiliate, confirming comparable customer quality despite lower AOV.
-3. Returning customers are categorically higher value. The 19.8% who repeat generate €616 in lifetime value (2.5x above one-time buyers at €248), with a per-order AOV of €283 (vs €248) and a lower refund rate (4.3% vs 5.3%). The top 10% of customers generate 45.4% of total revenue.
+<h4>🟢 Three Areas of Strength</h4>
+<table width="100%">
+  <thead>
+    <tr style="background-color: #e6ffed;">
+      <th align="left" width="25%">Initiative</th>
+      <th align="left" width="50%">Data Insight</th>
+      <th align="left" width="25%">Financial/Strategic Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Loyalty Programme</b></td>
+      <td>Revenue share surged from <b>10.7% to 54.8%</b>. Member AOV (€245) now exceeds non-members (€214).</td>
+      <td>Shifts behavior toward <b>higher-spec variants</b> (+15% spend on Gaming Monitors).</td>
+    </tr>
+    <tr>
+      <td><b>Email Marketing</b></td>
+      <td>Only channel with positive trajectory; share nearly doubled from <b>8.1% to 15.7%</b>.</td>
+      <td>High-quality customer base; refund rates (4.8%) match Direct traffic.</td>
+    </tr>
+    <tr>
+      <td><b>Customer Value</b></td>
+      <td>Returning customers generate <b>€616 LTV</b> (2.5x higher than one-time buyers).</td>
+      <td>Top 10% of customers drive <b>45.4%</b> of total revenue.</td>
+    </tr>
+  </tbody>
+</table>
 
-**Three things requiring action:**
-1. Customer retention is critically weak. €1.7M opportunity. 70,243 of 87,628 customers (80.2%) never place a second order. If just 5% of one-time buyers were converted to repeat purchasers at the returning-customer lifetime value of €616, the incremental revenue would be approximately €1.7M annually, a 34% lift on 2022's base.
-2. Laptop return rates are structurally high. €1.1M in refunded revenue. ThinkPad (12%) and MacBook Air (11%) refund rates are 2x the company average (5%). At €1,100–€1,588 AOV, this translates to €1.1M in total refunded laptop revenue, equivalent to 3.9% of total revenue.
-3. Social media delivers the worst customer quality. 1,293 orders (1.2% of total), 8% refund rate (50% above average), €231 AOV. The problem amplifies on high-ticket items: social media-acquired customers return ThinkPads at 18.2% and MacBooks at 14.3%, well above already-high company averages.
+<br>
+
+<h4>🔴 Three Areas Requiring Action</h4>
+<table width="100%">
+  <thead>
+    <tr style="background-color: #ffeef0;">
+      <th align="left" width="25%">Problem Area</th>
+      <th align="left" width="50%">Root Cause & Evidence</th>
+      <th align="left" width="25%">Addressable Opportunity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Customer Retention</b></td>
+      <td><b>80.2%</b> of customers (70k+) never place a second order.</td>
+      <td><b>€1.7M:</b> Value of converting just 5% of one-time buyers.</td>
+    </tr>
+    <tr>
+      <td><b>Laptop Refunds</b></td>
+      <td>ThinkPad (12%) and MacBook (11%) return rates are <b>2x the average</b>.</td>
+      <td><b>€1.1M:</b> Total refunded laptop revenue (3.9% of total base).</td>
+    </tr>
+    <tr>
+      <td><b>Social Media Quality</b></td>
+      <td>Highest refund rates (8%) and worst performance on high-ticket items (18% for ThinkPads).</td>
+      <td><b>Risk Mitigation:</b> Reallocate spend to higher-intent channels.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Sales Trends and Seasonality
 
