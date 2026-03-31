@@ -67,7 +67,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Insights Deep Dive
 
-**Sales Trends and Seasonality**
+### Sales Trends and Seasonality
 
 <div align="center">
 <img width="600" alt="Monthly sales trend" src="https://github.com/user-attachments/assets/e2cdb334-207a-424b-8770-4218d7fa1740" />
@@ -79,28 +79,33 @@ Revenue peaked at €10.2M in 2020, driven by both higher AOV (€300 vs €230 
 <img width="600" alt="Quarterly sales trend" src="https://github.com/user-attachments/assets/f4db4f74-eab7-4ce1-b675-fbba3eee2c68" />
 </div>
 
+Quarterly sales show shifting seasonality and earlier-year strength. In 2019 and 2020, Q4 was strongest (30–31% of annual revenue), driven by holiday peaks. By 2021, Q1 gained weight at 27%, balancing contributions across quarters. In 2022, Q1 led at 34% while Q4 fell to 13%, showing revenue moving to earlier months. Q2 and Q3 remain steady (~22–28%), providing consistent support. The Q4 drop in 2022 suggests demand pulled forward or weaker holiday sales, diverging from prior patterns and affecting year-end revenue.
 
 <div align="center">
-<img width="600" alt="YoY growth rate" src="https://github.com/user-attachments/assets/086e54d2-839f-46e7-a8be-58411706f41b" />
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/600cefc6-4d60-4926-89e6-621a986d37a4" />
 </div>
 
-[Seasonality heatmap]
+Monthly revenue shows clear seasonality and a shift toward early-year strength. In 2019–2020, December was the peak (€458K → €1.25M), with January and February smaller post-holiday months. By 2021, Q1 surged, led by January (€1.03M) and February (€708K), reducing reliance on Q4. In 2022, January remained strong (€705K), but Q4 months fell sharply (October–December: €178K–€262K), reflecting a front-loaded year and weaker holiday sales. Mid-year months are relatively stable, ranging €397K–€509K, providing consistent support.
 
-The YoY growth pattern reveals asymmetry: Q2 2020 surged +212%, but the payback in Q2 2021 was only -19%. The real collapse came in 2022 as post-pandemic baselines settled. Q4 2022 was the worst at -72%, with October dropping to just €178K — a company lifetime low.
+<div align="center">
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/860a4c9f-9a42-4150-a4a3-a9e7c5c84099" />
+</div>
+
+Quarterly growth highlights a major shift in revenue timing. In 2020, Q1 fell (-29%) after 2019, while Q2–Q3 grew (19–12%) and Q4 was flat (-2%), reflecting a strong holiday peak. In 2021, Q1 surged 67%, offsetting declines in Q2–Q4 (-10% to -16%), showing early-year strength. By 2022, Q1–Q2 grew 25–23%, Q3 was flat, and Q4 dropped sharply (-48%), confirming a front-loaded year with weaker holiday performance. These patterns align with monthly revenues: early months now dominate, mid-year is stable, and year-end has become increasingly unpredictable.
 
 <div align="center">
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/a24cf916-27b1-4ad7-b8db-86ca0b11cd03" />
 </div>
 
-## Product Performance
+Average order value (AOV) and order volume show how revenue drivers have shifted over time. In 2019, AOV was €230 with ~17K orders. In 2020, both AOV and volume jumped (€300; ~34K orders), fueling the €6.3M revenue increase. In 2021, order volume remained high (~36K) while AOV dipped to €255, sustaining revenue. By 2022, AOV returned to €230 and orders fell sharply (~22K), leading to lower annual revenue.
+
+### Product Performance
 
 <div align="center">
-<img width="600" alt="Product health table" src="https://github.com/user-attachments/assets/1fb29008-e7df-4a8a-a12a-d4f71e1075aa" />
+<img width="800" alt="Product health table" src="https://github.com/user-attachments/assets/1fb29008-e7df-4a8a-a12a-d4f71e1075aa" />
 </div>
 
-Two products account for 63% of revenue: 27in Gaming Monitor (35%, €9.9M) and Apple AirPods (28%, €7.7M). The top three products generate 85% of all revenue — a significant concentration risk.
-
-MacBook Air has the highest AOV (€1,588) but only 3,964 orders. Its revenue share expanded from 15.7% to 28.9% in 2020, then contracted to 17.2% by 2022. This single product line explains the majority of the revenue correction — the €1.0M MacBook revenue decline represents 40% of the total 2022 drop.
+Two products account for 63% of revenue: 27in Gaming Monitor (35%, €9.9M) and Apple AirPods (28%, €7.7M). The top three products generate 85% of all revenue, a significant concentration risk. MacBook Air has the highest AOV (€1,588) but only 3,964 orders. Its revenue share expanded from 15.7% to 28.9% in 2020, then contracted to 17.2% by 2022. This single product line explains the majority of the revenue correction — the €1.0M MacBook revenue decline represents 40% of the total 2022 drop.
 
 <div align="center">
 <img width="600" alt="Product revenue mix" src="https://github.com/user-attachments/assets/a7742dc6-3010-4e22-a7f7-69c931e4ad07" />
