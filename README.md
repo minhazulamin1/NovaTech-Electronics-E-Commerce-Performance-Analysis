@@ -18,10 +18,22 @@ The analysis covers seven areas:
 5. Regional Performance: Revenue and AOV across geographies
 6. Customer Analysis: Retention, repeat purchase behaviour, and revenue concentration
 
+## Table of Contents
+
+- [Data Structure](#data-structure)
+- [Executive Summary](#executive-summary)
+- [Sales Trends and Seasonality](#sales-trends-and-seasonality)
+- [Product Performance](#product-performance)
+- [Marketing Channel Effectiveness](#marketing-channel-effectiveness)
+- [Loyalty Programme Impact](#loyalty-programme-impact)
+- [Regional Performance](#regional-performance)
+- [Customer Analysis](#customer-analysis)
+- [Recommendations](#recommendations)
+
 ## Data Structure
 
 The dataset consists of four tables with 108,127 order records:
-<img width="1345" alt="ERD" src="https://github.com/user-attachments/assets/c78e659c-4a55-45d8-bc7a-2660b5caa101" />
+<img width="1095" height="845" alt="orders (3)" src="https://github.com/user-attachments/assets/aa5d7071-9e60-4b94-8337-8ce024f8d0f3" />
 
 ## Executive Summary
 
@@ -63,8 +75,6 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 1. Customer retention is critically weak — €1.7M opportunity. 70,243 of 87,628 customers (80.2%) never place a second order. If just 5% of one-time buyers were converted to repeat purchasers at the returning-customer lifetime value of €616, the incremental revenue would be approximately €1.7M annually, a 34% lift on 2022's base.
 2. Laptop return rates are structurally high — €1.1M in refunded revenue. ThinkPad (12%) and MacBook Air (11%) refund rates are 2x the company average (5%). At €1,100–€1,588 AOV, this translates to €1.1M in total refunded laptop revenue, equivalent to 3.9% of total revenue.
 3. Social media delivers the worst customer quality. 1,293 orders (1.2% of total), 8% refund rate (50% above average), €231 AOV. The problem amplifies on high-ticket items: social media-acquired customers return ThinkPads at 18.2% and MacBooks at 14.3%, well above already-high company averages.
-
-## Insights Deep Dive
 
 ## Sales Trends and Seasonality
 
@@ -272,7 +282,9 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
 
 ## Customer Analysis
 
-<img width="912" height="412" alt="image" src="https://github.com/user-attachments/assets/deda2c33-3018-46e9-ab1d-d5ab3e1e757c" />
+<div align="center">
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/deda2c33-3018-46e9-ab1d-d5ab3e1e757c" />
+</div>
 
 <table>
   <tr>
