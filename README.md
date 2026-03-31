@@ -1,10 +1,10 @@
-# NovaTech-Electronics-E-Commerce-Performance-Analysis
-
-## Project Background
-
 <div align="center">
  <img width="1408" height="459" alt="Gemini_Generated_Image_80jg4u80jg4u80jg" src="https://github.com/user-attachments/assets/db4fe124-5569-4a7e-ad64-3877b7428349" />
 </div>
+
+# NovaTech-Electronics-E-Commerce-Performance-Analysis
+
+## Project Background
 
 NovaTech Electronics is a global e-commerce company, founded in 2018, that sells popular consumer electronics and accessories through its website and mobile app. With a customer base approaching 88,000 across 194 countries and over 108,000 transactions generating €28M in revenue, the company has grown rapidly but faces significant headwinds tied to post-pandemic demand normalisation.
 
@@ -29,7 +29,7 @@ The dataset consists of four tables with 108,127 order records:
 **The Problem**
 NovaTech's revenue declined 46% year-over-year in 2022 (€5.0M vs €9.1M), with negative growth in every quarter.
 
-**Why:** The 2020 pandemic spike was concentrated in one product line — MacBook Air expanded from 15.7% to 28.9% of revenue then fully reverted. More fundamentally, the business has an 80.2% single-purchase rate, making it heavily dependent on new customer acquisition with limited organic retention.
+**Why:** The 2020 pandemic spike was concentrated in one product line, MacBook Air expanded from 15.7% to 28.9% of revenue then fully reverted. More fundamentally, the business has an 80.2% single-purchase rate, making it heavily dependent on new customer acquisition with limited organic retention.
 
 **The three biggest opportunities:**
 
@@ -49,7 +49,7 @@ The 2022 decline breaks down into two components: order volume declined 38% and 
 
 Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M), accounting for roughly 40% of the total revenue decline, equivalent to €1.0M. Samsung Webcam, absent in 2019, entered in 2020 and grew share every year. The correction is primarily a reversion of one-time pandemic demand.
 
-**Decomposing by acquisition source:** Direct traffic (83% of revenue) declined in absolute terms but held share. Email grew from 13.7% to 15.7% — the only channel with positive trajectory. The decline is a demand problem, not a channel-mix problem.
+**Decomposing by acquisition source:** Direct traffic (83% of revenue) declined in absolute terms but held share. Email grew from 13.7% to 15.7%, the only channel with positive trajectory. The decline is a demand problem, not a channel-mix problem.
 
 **Decomposing by customer behaviour:** 80.2% of customers are single-purchase buyers generating €248 in lifetime value. The 19.8% who return generate €616 in lifetime value (2.5x more) with a lower refund rate. The business is an acquisition machine with a weak retention engine.
 
@@ -70,102 +70,167 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 ### Sales Trends and Seasonality
 
 <div align="center">
-<img width="600" alt="Monthly sales trend" src="https://github.com/user-attachments/assets/e2cdb334-207a-424b-8770-4218d7fa1740" />
+<img width="1092" height="382" alt="image" src="https://github.com/user-attachments/assets/8045a427-37c3-472b-8eaa-27affff0968d" />
 </div>
 
-Revenue peaked at €10.2M in 2020, driven by both higher AOV (€300 vs €230 in 2019) and more orders (~34K vs ~17K). Both factors contributed roughly equally to the €6.3M revenue increase. September and December are consistently the strongest months. December 2020 was the single highest month at €1.25M. January and February consistently show post-holiday dips (average YoY growth of -12% and -23%), representing a predictable seasonal trough worth approximately €200K in lost monthly revenue versus the prior quarter.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Revenue & Seasonality</h3>
+      <ul>
+        <li><b>2020 Peak:</b> Revenue hit <b>€10.2M</b>, driven by higher AOV (€300) and increased order volume (~34K).</li>
+        <li><b>Growth Drivers:</b> AOV and order count contributed equally to the <b>€6.3M</b> revenue surge.</li>
+        <li><b>Monthly Highs:</b> September and December are consistently strongest; Dec 2020 peaked at <b>€1.25M</b>.</li>
+        <li><b>Post-Holiday Dips:</b> Jan/Feb show predictable troughs (-12% and -23% YoY), costing ~€200K vs. the prior quarter.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Quarterly Sales Shifts</h3>
+      <ul>
+        <li><b>Historical Trends:</b> In 2019-2020, Q4 was the powerhouse, delivering <b>30–31%</b> of annual revenue.</li>
+        <li><b>2021 Rebalance:</b> Q1 gained weight (27%), creating a more balanced contribution across the year.</li>
+        <li><b>2022 Divergence:</b> Q1 led at <b>34%</b>, while Q4 dropped significantly to <b>13%</b>, suggesting demand was pulled forward.</li>
+        <li><b>Steady Core:</b> Q2 and Q3 remain consistent (22–28%), providing a reliable baseline for the business.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-<img width="600" alt="Quarterly sales trend" src="https://github.com/user-attachments/assets/f4db4f74-eab7-4ce1-b675-fbba3eee2c68" />
+  <b>December peaks are fading while strong early-year months now drive performance</b>
 </div>
-
-Quarterly sales show shifting seasonality and earlier-year strength. In 2019 and 2020, Q4 was strongest (30–31% of annual revenue), driven by holiday peaks. By 2021, Q1 gained weight at 27%, balancing contributions across quarters. In 2022, Q1 led at 34% while Q4 fell to 13%, showing revenue moving to earlier months. Q2 and Q3 remain steady (~22–28%), providing consistent support. The Q4 drop in 2022 suggests demand pulled forward or weaker holiday sales, diverging from prior patterns and affecting year-end revenue.
 
 <div align="center">
-<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/600cefc6-4d60-4926-89e6-621a986d37a4" />
+<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/600cefc6-4d60-4926-89e6-621a986d37a4" />
 </div>
 
-Monthly revenue shows clear seasonality and a shift toward early-year strength. In 2019–2020, December was the peak (€458K → €1.25M), with January and February smaller post-holiday months. By 2021, Q1 surged, led by January (€1.03M) and February (€708K), reducing reliance on Q4. In 2022, January remained strong (€705K), but Q4 months fell sharply (October–December: €178K–€262K), reflecting a front-loaded year and weaker holiday sales. Mid-year months are relatively stable, ranging €397K–€509K, providing consistent support.
+<table>
+  <tr>
+    <td valign="top">
+      Monthly revenue shows clear seasonality and a shift toward early-year strength. In 2019–2020, <b>December was the peak (€458K → €1.25M)</b>, with January and February smaller post-holiday months. By 2021, <b>Q1 surged</b>, led by January (€1.03M) and February (€708K), reducing reliance on Q4. In 2022, January remained strong (€705K), but <b>Q4 months fell sharply (€178K–€262K)</b>, reflecting a front-loaded year and weaker holiday sales. Mid-year months are relatively stable, ranging <b>€397K–€509K</b>, providing consistent support.
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/860a4c9f-9a42-4150-a4a3-a9e7c5c84099" />
+Revenue swings are tied to simultaneous shifts in AOV and order volume, with both declining in 2022
 </div>
-
-Quarterly growth highlights a major shift in revenue timing. In 2020, Q1 fell (-29%) after 2019, while Q2–Q3 grew (19–12%) and Q4 was flat (-2%), reflecting a strong holiday peak. In 2021, Q1 surged 67%, offsetting declines in Q2–Q4 (-10% to -16%), showing early-year strength. By 2022, Q1–Q2 grew 25–23%, Q3 was flat, and Q4 dropped sharply (-48%), confirming a front-loaded year with weaker holiday performance. These patterns align with monthly revenues: early months now dominate, mid-year is stable, and year-end has become increasingly unpredictable.
 
 <div align="center">
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/a24cf916-27b1-4ad7-b8db-86ca0b11cd03" />
 </div>
 
-Average order value (AOV) and order volume show how revenue drivers have shifted over time. In 2019, AOV was €230 with ~17K orders. In 2020, both AOV and volume jumped (€300; ~34K orders), fueling the €6.3M revenue increase. In 2021, order volume remained high (~36K) while AOV dipped to €255, sustaining revenue. By 2022, AOV returned to €230 and orders fell sharply (~22K), leading to lower annual revenue.
+<table>
+  <tr>
+    <td valign="top">
+     Average order value (AOV) and order volume show how revenue drivers have shifted over time. In 2019, AOV was €230 with ~17K orders. In 2020, both AOV and volume jumped (€300; ~34K orders), fueling the €6.3M revenue increase. In 2021, order volume remained high (~36K) while AOV dipped to €255, sustaining revenue. By 2022, AOV returned to €230 and orders fell sharply (~22K), leading to lower annual revenue.
+    </td>
+  </tr>
+</table>
 
 ### Product Performance
 
-<div align="center">
-<img width="800" alt="Product health table" src="https://github.com/user-attachments/assets/1fb29008-e7df-4a8a-a12a-d4f71e1075aa" />
-</div>
+<img width="1073" height="380" alt="image" src="https://github.com/user-attachments/assets/3387e178-f0de-40d1-9d98-e5c748ac25d5" />
 
-Two products account for 63% of revenue: 27in Gaming Monitor (35%, €9.9M) and Apple AirPods (28%, €7.7M). The top three products generate 85% of all revenue, a significant concentration risk. MacBook Air has the highest AOV (€1,588) but only 3,964 orders. Its revenue share expanded from 15.7% to 28.9% in 2020, then contracted to 17.2% by 2022. This single product line explains the majority of the revenue correction — the €1.0M MacBook revenue decline represents 40% of the total 2022 drop.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Two products drive 63% of revenue, with the top three accounting for 85%, a clear concentration risk</b>
+      </div>
+      <hr>
+      Two products account for 63% of revenue: <b>27in Gaming Monitor (35%, €9.9M)</b> and <b>Apple AirPods (28%, €7.7M)</b>. The top three products generate 85% of all revenue, a significant concentration risk. 
+      <br>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Laptops drive €1.1M in returns; Samsung Webcam grows; Bose SoundSport should be cut</b>
+      </div>
+      <hr>
+      Laptops are the highest-risk category. <b>ThinkPad (12%)</b> and <b>MacBook Air (11%)</b> refund rates translate to <b>€1.1M in refunded revenue</b> (€719K from MacBooks and €376K from ThinkPads). 
+      <br>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img width="600" alt="Product revenue mix" src="https://github.com/user-attachments/assets/a7742dc6-3010-4e22-a7f7-69c931e4ad07" />
-</div>
+<img width="1090" height="336" alt="image" src="https://github.com/user-attachments/assets/670da90c-62d4-43de-b8e6-8bda0a21f582" />
 
-Laptops are the highest-risk return category. ThinkPad (12%) and MacBook Air (11%) refund rates translate to €1.1M in refunded revenue, €719K from MacBooks alone and €376K from ThinkPads. Samsung Charging Cable Pack has the lowest refund rate at 1%, consistent with low-cost items not being worth the effort of returning.
-
-<div align="center">
-<img width="600" alt="Refund rate by product" src="https://github.com/user-attachments/assets/5e9a7737-ca61-420b-aaab-554fa2b543f7" />
-</div>
-
-Samsung Webcam entered the product line in 2020 and grew share every subsequent year — a pandemic-era product that proved sticky, unlike the MacBook surge. Bose SoundSport Headphones generated just €3,339 total with 27 orders, despite being ~€40 cheaper than AirPods, demand is negligible and warrants discontinuation.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>MacBook Air’s boom-and-bust explains 40% of the total 2022 revenue decline</b>
+      </div>
+      <hr>
+      MacBook Air has the highest AOV (€1,588) but only 3,964 orders. Its revenue share expanded from 15.7% to 28.9% in 2020, then contracted to 17.2% by 2022. This single product line explains the majority of the revenue correction; the <b>€1.0M MacBook revenue decline represents 40% of the total 2022 drop.</b>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Samsung Webcam proves "sticky" while Bose SoundSport warrants immediate discontinuation</b>
+      </div>
+      <hr>
+      Samsung Webcam, introduced in 2020, grew share every year, proving "stickier" than the MacBook surge. Conversely, <b>Bose SoundSport Headphones</b> generated just €3,339 total with 27 orders; demand is negligible and <b>warrants discontinuation.</b>
+    </td>
+  </tr>
+</table>
 
 ## Marketing Channel Effectiveness
-
 <div align="center">
-<img width="600" alt="Channel revenue and volume" src="https://github.com/user-attachments/assets/4ff35f77-7f9c-4f41-99dd-2ecfa6815967" />
+<img width="1100" height="338" alt="image" src="https://github.com/user-attachments/assets/e0480af3-3792-4d92-b7b7-bbe03a8097b8" />
 </div>
 
-Direct traffic dominates at 83% of revenue but its share is declining: 85.5% in 2019 to 76.2% in 2022. In absolute terms, direct revenue still accounts for €3.8M, it held up better than overall revenue.
-
-Email is the clearest growth story, nearly doubling from 8.1% to 15.7% of revenue share. Email order volume grew from 1,824 to 4,247 annually. However, email AOV (€181) is significantly below affiliate (€303) and direct (€277). Closing this gap represents a substantial opportunity: if email's AOV reached direct-channel levels, the incremental revenue from existing email volume (18,553 orders) would be approximately €1.8M. Even closing 50% of the gap yields ~€900K.
-
-<div align="center">
-<img width="600" alt="Channel mix over time" src="https://github.com/user-attachments/assets/45b5f2eb-d187-460b-b8ea-979724ceba02" />
-</div>
-
-<div align="center">
-<img width="600" alt="AOV by channel" src="https://github.com/user-attachments/assets/638ecbd3-5040-4a42-b395-541f05fe0dbc" />
-</div>
-
-Affiliate brings the highest-value customers at €303 AOV — 67% above email. Despite low volume (2,900 orders total), affiliate demonstrates that high-value customers can be acquired through non-direct channels.
-
-Social media is the weakest channel on every quality metric: 8% refund rate, 1.2% of orders, and €231 AOV. The problem compounds on high-ticket items — social media-acquired customers return ThinkPads at 18.2% and MacBooks at 14.3%, well above company averages of 12% and 11%. Refund rates across direct, affiliate, and email are nearly identical (4.8%–5.0%), isolating social media as the clear outlier.
-
-<div align="center">
-<img width="600" alt="Refund rate by channel" src="https://github.com/user-attachments/assets/7624cba2-35d4-4643-993d-4c425854dacb" />
-</div>
-
-The "unknown" channel grew from 0.1% to 4.6% of revenue in 2022 — a data classification issue worth investigating to ensure attribution accuracy.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Direct traffic remains the core revenue driver but is losing share to emerging channels</b>
+      </div>
+      <hr>
+      Direct traffic dominates at 83% of revenue but its share is declining: 85.5% in 2019 to 76.2% in 2022. In absolute terms, direct revenue still accounts for <b>€3.8M</b>; it held up better than overall revenue. As the direct channel share shrinks, it signaling a positive diversification of the acquisition mix.
+      <br><br>
+      <b>Affiliate</b> brings the highest-value customers at <b>€303 AOV</b> (67% above email). Despite low volume (2,900 orders total), affiliate demonstrates that high-value customers can be acquired through non-direct channels.
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Email is the primary growth engine—closing the AOV gap represents a €900K+ opportunity</b>
+      </div>
+      <hr>
+      Email is the clearest growth story, nearly doubling from 8.1% to 15.7% of revenue share. Email order volume grew from 1,824 to 4,247 annually. However, email AOV (€181) is significantly below affiliate (€303) and direct (€277). 
+      <br><br>
+      Closing this gap represents a <b>substantial opportunity</b>: if email's AOV reached direct-channel levels, incremental revenue would be ~€1.8M. Even closing 50% of this gap yields an additional <b>€900K in revenue</b>.
+    </td>
+  </tr>
+</table>
 
 ## Platform Analysis
+
+<div align="center">
+Website accounts for 96–97% of revenue across all years. Mobile app remains marginal at €868K total over four years.
+</div>
+
+<div align="center">
+<img width="500" alt="Product preference by platform" src="https://github.com/user-attachments/assets/ef9c1330-9df7-4186-b38b-d573b3aaa648" />
+</div>
+
+<div align="center">
+Mobile AOV (€47 vs €304) reflects product mix, not user behavior
+</div>
 
 <div align="center">
 <img width="600" alt="Platform revenue and AOV" src="https://github.com/user-attachments/assets/27df1da1-85c8-4bd2-b665-eee02f04c98c" />
 </div>
 
-Website accounts for 96–97% of revenue across all years. Mobile app remains marginal at €868K total over four years.
-
 The mobile app AOV gap (€47 vs €304) is entirely a product mix effect: mobile app users purchased just 129 gaming monitors and 8 MacBooks across the entire period, compared to 23,279 monitors and 3,956 MacBooks on website. Mobile users almost exclusively buy Samsung accessories and AirPods.
 
 <div align="center">
-<img width="600" alt="Product preference by platform" src="https://github.com/user-attachments/assets/ef9c1330-9df7-4186-b38b-d573b3aaa648" />
+Mobile users mainly buy low-cost accessories, explaining lower refund rates (2% vs 6%).
 </div>
-
-Mobile app refund rate (2%) is lower than website (6%), but this is a confounding variable — low-cost accessories are rarely worth returning. Controlling for product mix would likely eliminate the difference entirely. The platform itself is not driving different customer behaviour.
 
 <div align="center">
 <img width="600" alt="Refund rate by platform" src="https://github.com/user-attachments/assets/e7c08d18-0e93-4f41-b762-ffd24d96abbd" />
 </div>
+
+Mobile app refund rate (2%) is lower than website (6%), but this is a confounding variable — low-cost accessories are rarely worth returning. Controlling for product mix would likely eliminate the difference entirely. The platform itself is not driving different customer behaviour.
 
 # Loyalty Programme Impact
 
