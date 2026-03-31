@@ -1,5 +1,5 @@
 <div align="center">
- <img width="1408" height="459" alt="Gemini_Generated_Image_80jg4u80jg4u80jg" src="https://github.com/user-attachments/assets/db4fe124-5569-4a7e-ad64-3877b7428349" />
+<img width="553" height="172" alt="Gemini_Generated_Image_umam72umam72umam-removebg-preview" src="https://github.com/user-attachments/assets/28bb1f71-5ddf-4f03-87dc-5e083f9d2b53" />
 </div>
 
 # NovaTech-Electronics-E-Commerce-Performance-Analysis
@@ -14,10 +14,9 @@ The analysis covers seven areas:
 1. Sales Trends and Seasonality: Revenue patterns, growth rates, and seasonal demand cycles
 2. Product Performance: Revenue concentration, product mix shifts, and return risk
 3. Marketing Channel Effectiveness: Channel contribution, growth trends, and customer quality by acquisition source
-4. Platform Analysis: Website vs. mobile app purchasing behaviour
-5. Loyalty Programme: Adoption trajectory, member economics, and maturation signals
-6. Regional Performance: Revenue and AOV across geographies
-7. Customer Analysis: Retention, repeat purchase behaviour, and revenue concentration
+4. Loyalty Programme: Adoption trajectory, member economics, and maturation signals
+5. Regional Performance: Revenue and AOV across geographies
+6. Customer Analysis: Retention, repeat purchase behaviour, and revenue concentration
 
 ## Data Structure
 
@@ -39,7 +38,7 @@ NovaTech's revenue declined 46% year-over-year in 2022 (€5.0M vs €9.1M), wit
 
 Total addressable opportunity: ~€2.9M, or 58% of the 2022 revenue base.
 
-## Revenue Decomposition
+**Revenue Decomposition**
 
 <div align="center">
 <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/56015737-357b-4435-b946-5f2fb8e12a42" />
@@ -67,7 +66,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Insights Deep Dive
 
-### Sales Trends and Seasonality
+## Sales Trends and Seasonality
 
 <div align="center">
 <img width="1092" height="382" alt="image" src="https://github.com/user-attachments/assets/8045a427-37c3-472b-8eaa-27affff0968d" />
@@ -128,7 +127,7 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
   </tr>
 </table>
 
-### Product Performance
+## Product Performance
 
 <img width="1073" height="380" alt="image" src="https://github.com/user-attachments/assets/3387e178-f0de-40d1-9d98-e5c748ac25d5" />
 
@@ -202,95 +201,155 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
   </tr>
 </table>
 
-## Platform Analysis
+## Loyalty Programme Impact
 
-<div align="center">
-Website accounts for 96–97% of revenue across all years. Mobile app remains marginal at €868K total over four years.
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b> Non member AOV declined in 2022</b>
+        <br><br>
+       <img width="543" height="348" alt="image" src="https://github.com/user-attachments/assets/7e74dff7-2f18-45f6-8554-886793ecc312" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <br><br><br>
+      Non-member AOV collapsed 38% from peak (<b>€345 to €214</b>) while member AOV grew steadily by 18% (<b>€207 to €245</b>), crossing over in 2022.
+      <br><br>
+      Members spent €26 less per order than non-members initially, as the programme attracted budget-conscious buyers. The gap widened to €117 during the pandemic but has now reversed: <b>members now spend €31 more per order</b>, signalling programme maturation.
+    </td>
+  </tr>
 
-<div align="center">
-<img width="500" alt="Product preference by platform" src="https://github.com/user-attachments/assets/ef9c1330-9df7-4186-b38b-d573b3aaa648" />
-</div>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Loyalty adoption reached a majority 55% share by 2022</b>
+        <br><br>
+        <img width="557" height="347" alt="image" src="https://github.com/user-attachments/assets/15574ddc-db54-459a-9d64-ef0809d871ca" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <br><br><br>
+      Loyalty members grew from <b>11% to 55% of revenue</b> in three years, overtaking non-members in 2021.
+      <br><br>
+      Rapid adoption during the pandemic doubled membership share to 29%, adding <b>€2.6M</b> in member revenue. By 2021, members contributed 53% of total revenue. Even during the 2022 downturn, <b>members consolidated at 55%</b>, demonstrating the programme's stickiness.
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-Mobile AOV (€47 vs €304) reflects product mix, not user behavior
-</div>
+## Regional Performance
 
-<div align="center">
-<img width="600" alt="Platform revenue and AOV" src="https://github.com/user-attachments/assets/27df1da1-85c8-4bd2-b665-eee02f04c98c" />
-</div>
+<img width="1065" height="341" alt="image" src="https://github.com/user-attachments/assets/3b62583f-e484-4d55-a906-552f7217701e" />
 
-The mobile app AOV gap (€47 vs €304) is entirely a product mix effect: mobile app users purchased just 129 gaming monitors and 8 MacBooks across the entire period, compared to 23,279 monitors and 3,956 MacBooks on website. Mobile users almost exclusively buy Samsung accessories and AirPods.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Every region's AOV peaked in 2020 and declined after, but LATAM collapsed fastest, dropping 43% from peak (€295 to €168)</b>
+      </div>
+      <hr>
+      <ul>
+        <li><b>APAC:</b> Most resilient trajectory. Peaked at €317 and settled to €249, only a 21% decline from peak.</li>
+        <li><b>LATAM:</b> Significant red flag. AOV fell from €295 to €168, a 43% drop and the lowest AOV of any region.</li>
+        <li><b>North America:</b> The anchor. Stable at €237 in 2022, closest to its 2019 baseline of €238.</li>
+        <li><b>EMEA:</b> Mirrors the overall company trend. Peaked, corrected, and landed roughly where it started.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>North America's share is growing, reaching 55% in 2022. The business is becoming more dependent on a single market.</b>
+      </div>
+      <hr>
+      <ul>
+        <li><b>North America:</b> Regained dominance at 54.6% after dipping in 2021. Demand proved more resilient post-pandemic.</li>
+        <li><b>EMEA:</b> Lost 3pp of share (30.7% to 27.7%) from 2021 to 2022, the largest decline of any region.</li>
+        <li><b>LATAM:</b> Shrank to just 5.2% of revenue. Underperforming on both volume and AOV dimensions.</li>
+        <li><b>APAC:</b> Stayed flat at 12-14%. Consistent but not growing, representing untapped high-AOV potential.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-Mobile users mainly buy low-cost accessories, explaining lower refund rates (2% vs 6%).
-</div>
+## Customer Analysis
 
-<div align="center">
-<img width="600" alt="Refund rate by platform" src="https://github.com/user-attachments/assets/e7c08d18-0e93-4f41-b762-ffd24d96abbd" />
-</div>
+<img width="912" height="412" alt="image" src="https://github.com/user-attachments/assets/deda2c33-3018-46e9-ab1d-d5ab3e1e757c" />
 
-Mobile app refund rate (2%) is lower than website (6%), but this is a confounding variable — low-cost accessories are rarely worth returning. Controlling for product mix would likely eliminate the difference entirely. The platform itself is not driving different customer behaviour.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>80% of customers are single-purchase buyers: the typical customer buys one item and never returns</b>
+      </div>
+      <hr>
+      80.2% of NovaTech's customers are single-purchase buyers. Only <b>17,385 of 87,628 customers (19.8%)</b> ever placed a second order. The average customer generates just <b>€321 in lifetime revenue</b> (median €168).
+      <br><br>
+      While returning customers generate a higher AOV (<b>€283 vs. €248</b>), the loyalty programme is failing to drive retention. Members actually have a <b>lower repeat rate (17.4%)</b> than non-members (21.8%), suggesting the programme rewards per-transaction spend rather than frequency.
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <b>Converting just 5% of one-time buyers represents a €1.7M revenue lift with zero acquisition cost</b>
+      </div>
+      <hr>
+      Redesigning incentives around return visits, rather than just basket value, is the highest-leverage change available. 
+      <br><br>
+      If NovaTech converted just <b>5% of one-time buyers</b> to repeat customers at the returning-customer lifetime value of €616, it would generate approximately <b>€1.7M in incremental annual revenue</b>. 
+      <br><br>
+      This represents a <b>34% lift</b> on the 2022 revenue base, achieved with minimal cost since these customers already exist in the database.
+    </td>
+  </tr>
+</table>
 
-# Loyalty Programme Impact
+## Recommendations
 
-The loyalty programme's growth is the strongest positive signal in the data: 10.7% of revenue in 2019 to 54.8% in 2022. This represents a fundamental shift in the customer base composition.
-Members spend more per product across the board: 15.2% more on Gaming Monitors (€457 vs €397), 9.3% more on MacBooks (€1,721 vs €1,574), and 5.2% more on ThinkPads (€1,131 vs €1,075). The programme appears to shift purchasing toward higher-spec variants, not just drive volume.
+<table>
+  <thead>
+    <tr>
+      <th>Priority</th>
+      <th>Action</th>
+      <th>Owner</th>
+      <th>Expected Impact</th>
+      <th>Metric to Track</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>P0</b></td>
+      <td><b>Build a repeat-purchase programme:</b> Post-purchase email sequences, replenishment reminders, and "next product" recommendations.</td>
+      <td>Marketing / CX</td>
+      <td>Convert 5% of one-time buyers to repeat → <b>~€1.7M incremental revenue</b></td>
+      <td>Repeat purchase rate (Target: 25%), CLV</td>
+    </tr>
+    <tr>
+      <td><b>P0</b></td>
+      <td><b>Root-cause analysis on laptop refunds:</b> Customer surveys, return reason categorisation, and listing accuracy audit.</td>
+      <td>Product / Ops</td>
+      <td>Reduce laptop refunds by 30% → <b>~€330K annual savings</b></td>
+      <td>Laptop refund rate (Target: < 8%)</td>
+    </tr>
+    <tr>
+      <td><b>P1</b></td>
+      <td><b>A/B test email campaigns:</b> Focus on higher-margin product mix (monitors, laptops) vs. current accessory-heavy creative.</td>
+      <td>Marketing</td>
+      <td>Close 50% of email-to-direct AOV gap → <b>~€900K incremental revenue</b></td>
+      <td>Email channel AOV (Target: €230)</td>
+    </tr>
+    <tr>
+      <td><b>P1</b></td>
+      <td><b>Redesign loyalty programme tiers:</b> Reward return visits, introduce streak bonuses, and visit-frequency incentives.</td>
+      <td>Marketing / CX</td>
+      <td>Improve member repeat rate from 17.4% to 25%</td>
+      <td>Member repeat rate, Member refund rate</td>
+    </tr>
+    <tr>
+      <td><b>P2</b></td>
+      <td><b>Reallocate social media spend:</b> Shift budget to email and affiliate scaling to improve blended customer quality.</td>
+      <td>Marketing</td>
+      <td>Reduce refund costs on high-ticket items</td>
+      <td>Blended refund rate, Channel-level ROAS</td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center">
-<img width="600" alt="Loyalty revenue over time" src="https://github.com/user-attachments/assets/71319bb5-7cbc-4bd3-b9df-cb9f140f2937" />
-</div>
-
-The 2022 AOV crossover is a key maturation signal. Member AOV (€245) surpassed non-member AOV (€214) for the first time, while non-member AOV collapsed from a €345 peak. Member AOV stayed relatively stable throughout (€207 to €245).
-
-<div align="center">
-<img width="600" alt="AOV by loyalty by year" src="https://github.com/user-attachments/assets/808b09a5-bef6-40cc-8d34-d581ed9b7a8b" />
-</div>
-  
-Refund rates for members were consistently higher across 2019–2021 (7.8% vs 5.4% in 2019; 12.9% vs 6.9% in 2020). The 2020 spike to 12.9% suggests the programme attracted deal-seeking customers with higher return propensity during the pandemic rush.
-
-#Regional Performance
-
-<div align="center">
-<img width="600" alt="Regional performance" src="https://github.com/user-attachments/assets/deee601a-8dd8-4f44-a04c-b29a32776032" />
-</div>
-
-North America is the largest market (€14.6M including reclassified null-region orders), with the US alone accounting for 47% of total sales. EMEA follows at €8.2M, APAC at €3.7M, and LATAM at €1.7M.
-
-<div align="center">
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/808b09a5-bef6-40cc-8d34-d581ed9b7a8b" />
-</div>
-
-APAC has the highest AOV at €279, 21% above LATAM's €231. This gap suggests different pricing tolerance or customer demographics by region, though the product mix is consistent across all regions. No region-specific preferences were detected.
-
-<div align="center">
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/deee601a-8dd8-4f44-a04c-b29a32776032" />
-</div>
-
-# Customer Analysis
-
-<div align="center">
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/aa304c96-1e70-43f8-9bd5-6fde6232898e" />
-</div>
-
-80.2% of NovaTech's customers are single-purchase buyers. Only 17,385 of 87,628 customers (19.8%) ever placed a second order. The average customer generates just €321 in lifetime revenue, with a median of €168 — the typical customer buys a single mid-to-low-ticket item and never returns.
-
-<div align="center">
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/6f162c19-ea09-4abf-a550-4167d9c10744" />
-</div>
-
-Returning customers generate €616 in average lifetime value (2.5x the €248 from one-time buyers), across an average of 2.18 orders at €283 per order (14% above first-time buyers). Their refund rate is also lower (4.3% vs 5.3%), confirming they are higher quality across every metric. The smaller sample size (17,385 vs 70,243 customers) warrants noting, though at this volume the findings are robust.
-
-The loyalty programme does not solve retention. Loyalty members have a lower repeat rate (17.4%) than non-members (21.8%). This suggests the programme's current design rewards per-transaction spend rather than purchase frequency. Redesigning incentives around return visits, not just basket value, is the highest-leverage change available.
-
-If NovaTech converted just 5% of one-time buyers to repeat customers at the returning-customer lifetime value of €616, that would generate approximately €1.7M in incremental annual revenue, a 34% lift on 2022's €5.0M base, with minimal acquisition cost since these customers already exist in the database.
-
-Recommendations
-PriorityActionOwnerExpected ImpactMetric to TrackP0Build a repeat-purchase programme: post-purchase email sequences, replenishment reminders for accessories, and "next product" recommendations based on first purchaseMarketing / CXConvert 5% of one-time buyers to repeat → ~€1.7M incremental revenueRepeat purchase rate (target: 25%), customer lifetime valueP0Root-cause analysis on laptop refund rates — customer survey, return reason categorisation, and listing accuracy auditProduct / OpsReduce laptop refunds by 30% → ~€330K annual savingsLaptop refund rate (target: below 8%)P1A/B test email campaigns with higher-margin product mix (monitors, laptops vs current accessory-heavy creative)MarketingClose 50% of email-to-direct AOV gap → ~€900K incremental revenueEmail channel AOV (target: €230)P1Redesign loyalty programme tiers around purchase frequency — reward return visits, introduce streak bonuses, shift from spend-threshold to visit-frequency incentivesMarketing / CXImprove member repeat rate from 17.4% to 25%Member repeat purchase rate, member refund rateP2Reduce social media acquisition spend, reallocate budget to email and affiliate scalingMarketingImprove blended customer quality, reduce refund costs on high-ticket itemsBlended refund rate, channel-level ROAS
-Total addressable opportunity: ~€2.9M across three growth levers (retention, AOV improvement, cost reduction), representing 58% of the 2022 revenue base.
-
-Tools Used
-
-Microsoft Excel: Pivot tables, conditional formatting, and chart creation for exploratory analysis and visualisation
-SQL: Data cleaning, quality checks, and targeted business queries
-Analysis techniques: Revenue decomposition (volume × AOV), year-over-year growth analysis, cohort comparison (loyalty vs non-loyalty, new vs returning), product mix shift analysis, cross-dimensional analysis (channel × product, loyalty × product), refund rate benchmarking, customer-level retention analysis
+<blockquote>
+  <b>Total Addressable Opportunity: ~€2.9M</b> across three growth levers (retention, AOV improvement, and cost reduction), representing <b>58% of the 2022 revenue base.</b>
+</blockquote>
