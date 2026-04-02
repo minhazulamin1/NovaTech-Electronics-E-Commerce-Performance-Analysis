@@ -1,5 +1,5 @@
 <div align="center">
-<img width="553" height="172" alt="Gemini_Generated_Image_umam72umam72umam-removebg-preview" src="https://github.com/user-attachments/assets/28bb1f71-5ddf-4f03-87dc-5e083f9d2b53" />
+<img width="677" height="209" alt="Gemini_Generated_Image_v2jgbkv2jgbkv2jg-removebg-preview" src="https://github.com/user-attachments/assets/56d66842-8080-4199-8d61-e6ce6f8ef913" />
 </div>
 
 # NovaTech Electronics E-Commerce Performance Analysis
