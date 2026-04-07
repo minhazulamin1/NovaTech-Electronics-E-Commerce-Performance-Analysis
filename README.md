@@ -8,7 +8,7 @@
 
 NovaTech Electronics is a global e-commerce company, founded in 2018, that sells popular consumer electronics and accessories through its website and mobile app. With a customer base approaching 88,000 across 194 countries and over 108,000 transactions generating €28M in revenue, the company has grown rapidly but faces significant headwinds tied to post-pandemic demand normalisation.
 
-Reporting to the VP of Commercial, this analysis was conducted as a Data Analyst to evaluate NovaTech's performance over the four-year period (2019–2022), identify the root causes of the 2022 revenue decline, and surface actionable opportunities for the Marketing, Product, and Customer Experience teams.
+Reporting to the VP of Commercial, this analysis was conducted to evaluate NovaTech's performance over the four-year period (2019–2022), identify the root causes of the 2022 revenue decline, and surface actionable opportunities for the Marketing, Product, and Customer Experience teams.
 The analysis covers seven areas:
 
 1. Sales Trends and Seasonality: Revenue patterns, growth rates, and seasonal demand cycles
