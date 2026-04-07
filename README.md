@@ -90,9 +90,9 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
       <td>High-quality customer base; refund rates (4.8%) match Direct traffic.</td>
     </tr>
     <tr>
-      <td><b>Customer Value</b></td>
-      <td>80.2% of customers never place a second order, with one-time buyers averaging €248 per order. 19.8% who return average €283 per order. 2.5x higher in lifetime value. </td>
-      <td>The top 10% of customers drive 45.4% of total revenue.</td>
+      <td><b>Affiliate Channel</b></td>
+      <td>Highest-value customers at €303 AOV, 67% above email, 9% above direct. Only 2,900 orders total.</td>
+      <td>Proves high-AOV customers can be acquired outside direct. Scaling affiliate is the highest-quality growth lever available.</td>
     </tr>
   </tbody>
 </table>
