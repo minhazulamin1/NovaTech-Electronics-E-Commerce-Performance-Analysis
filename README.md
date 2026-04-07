@@ -87,7 +87,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
     <tr>
       <td><b>27in Gaming Monitor</b></td>
       <td>Single largest revenue driver at 35% of total revenue (€9.9M). Consistent performer across all four years.</td>
-      <td>Loyalty members spend 15% more on Gaming Monitors — the programme is directly lifting AOV on the business's biggest product.</td>
+      <td>Loyalty members spend 15% more on Gaming Monitors, the programme is directly lifting AOV on the business's biggest product.</td>
     </tr>
     <tr>
       <td><b>Direct Channel</b></td>
