@@ -178,7 +178,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 </div>
 
 <div align="center">
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/380057ea-2b4b-4020-a848-6e231eb7f4b0" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/380057ea-2b4b-4020-a848-6e231eb7f4b0" />
 </div>
 
 <table>
