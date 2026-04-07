@@ -122,7 +122,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
     <tr>
       <td><b>Laptop Refunds</b></td>
       <td>ThinkPad (12%) and MacBook (11%) return rates are 2x the category average.</td>
-      <td><b>€1.1M in refunded revenue — 3.9% of the total revenue base written back.</td>
+      <td><b>€1.1M in refunded revenue, 3.9% of the total revenue base written back.</td>
     </tr>
   </tbody>
 </table>
