@@ -33,7 +33,9 @@ The analysis covers seven areas:
 ## Data Structure
 
 The dataset consists of four tables with 108,127 order records:
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/8c79fef9-53e9-43a7-9e37-c85370fca1cf"/>
+<div align="center">
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/09ea004f-69d5-4640-a498-367ac6724c7a" />
+</div>
 
 ## Executive Summary
 
@@ -53,7 +55,8 @@ Total addressable opportunity: ~€2.9M, or 58% of the 2022 revenue base.
 **Revenue Decomposition**
 
 <div align="center">
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/56015737-357b-4435-b946-5f2fb8e12a42" />
+  <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/5cb6e2c6-19af-4776-8110-b051517b0df7" />
+
 </div>
 
 The 2022 decline breaks down into two components: order volume declined 38% and AOV declined 10%. Order volume is the primary driver.
@@ -127,7 +130,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 ## Sales Trends and Seasonality
 
 <div align="center">
-<img width="1055" height="372" alt="image" src="https://github.com/user-attachments/assets/ca6638e1-c995-4d36-b664-d7d35b7b3e8e" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ca6638e1-c995-4d36-b664-d7d35b7b3e8e" />
 
 </div>
 
@@ -159,7 +162,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 </div>
 
 <div align="center">
-  <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/c8d75a42-c292-4325-afa3-f6c0113d08ba" />
+  <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/c8d75a42-c292-4325-afa3-f6c0113d08ba" />
 </div>
 
 <table>
@@ -175,7 +178,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 </div>
 
 <div align="center">
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/380057ea-2b4b-4020-a848-6e231eb7f4b0" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/380057ea-2b4b-4020-a848-6e231eb7f4b0" />
 </div>
 
 <table>
@@ -188,7 +191,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Product Performance
 <div align="center">
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/7fb92456-320c-41b0-8fa6-cf83c8a54f04" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7fb92456-320c-41b0-8fa6-cf83c8a54f04" />
 </div>
 <table>
   <tr>
@@ -211,7 +214,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
   </tr>
 </table>
 <div align="center">
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/345c6e6c-fdb5-4468-ae1a-e3020648d500" />
+  <img width="2000" height="900" alt="image" src="https://github.com/user-attachments/assets/345c6e6c-fdb5-4468-ae1a-e3020648d500" />
 </div>
 <table>
   <tr>
@@ -234,7 +237,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Marketing Channel Effectiveness
 <div align="center">
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/8bfbaba1-72ea-4820-8aeb-00e6d225da90" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8bfbaba1-72ea-4820-8aeb-00e6d225da90" />
 </div>
 
 <table>
@@ -262,16 +265,16 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Loyalty Programme Impact
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="65%"> 
       <div align="center">
-        <b> Non member AOV declined in 2022</b>
+        <b>Non member AOV declined in 2022</b>
         <br><br>
-       <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/9c82d637-d12b-4b55-8f86-6eec2b5078c3" />
+        <img width="95%" style="max-width:900px; height:auto; display:block; margin: 0 auto;" alt="image" src="https://github.com/user-attachments/assets/f1a7d8fa-9ff6-4c06-b8ce-43c2642e6d51" />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="35%" style="padding-left:25px;">
       <br><br><br>
       Non-member AOV collapsed 38% from peak (<b>€345 to €214</b>) while member AOV grew steadily by 18% (<b>€207 to €245</b>), crossing over in 2022.
       <br><br>
@@ -280,14 +283,14 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
   </tr>
 
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="65%"> 
       <div align="center">
         <b>Loyalty adoption reached a majority 55% share by 2022</b>
         <br><br>
-        <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/29370401-b2b7-4985-b62b-83aed52a22b5" />
+        <img width="95%" style="max-width:900px; height:auto; display:block; margin: 0 auto;" alt="image" src="https://github.com/user-attachments/assets/29370401-b2b7-4985-b62b-83aed52a22b5" />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="35%" style="padding-left:25px;">
       <br><br><br>
       Loyalty members grew from <b>11% to 55% of revenue</b> in three years, overtaking non-members in 2021.
       <br><br>
@@ -298,7 +301,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Regional Performance
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/0415226e-31e7-4f9c-b01c-7f867cd73843" />
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/0415226e-31e7-4f9c-b01c-7f867cd73843" />
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -331,7 +334,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 ## Customer Analysis
 
 <div align="center">
-  <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/dc6c37da-8cd6-483e-ab8c-887d960d8b14" />
+  <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/dc6c37da-8cd6-483e-ab8c-887d960d8b14" />
 </div>
 
 <table>
