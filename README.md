@@ -33,7 +33,7 @@ The analysis covers seven areas:
 ## Data Structure
 
 The dataset consists of four tables with 108,127 order records:
-<img width="1095" height="845" alt="orders (3)" src="https://github.com/user-attachments/assets/aa5d7071-9e60-4b94-8337-8ce024f8d0f3" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/8c79fef9-53e9-43a7-9e37-c85370fca1cf"/>
 
 ## Executive Summary
 
@@ -127,7 +127,8 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 ## Sales Trends and Seasonality
 
 <div align="center">
-<img width="1092" height="382" alt="image" src="https://github.com/user-attachments/assets/8045a427-37c3-472b-8eaa-27affff0968d" />
+<img width="1055" height="372" alt="image" src="https://github.com/user-attachments/assets/ca6638e1-c995-4d36-b664-d7d35b7b3e8e" />
+
 </div>
 
 <table>
@@ -158,7 +159,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 </div>
 
 <div align="center">
-<img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/600cefc6-4d60-4926-89e6-621a986d37a4" />
+  <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/c8d75a42-c292-4325-afa3-f6c0113d08ba" />
 </div>
 
 <table>
@@ -170,11 +171,11 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 </table>
 
 <div align="center">
-Revenue swings are tied to simultaneous shifts in AOV and order volume, with both declining in 2022
+<b>Revenue swings are tied to simultaneous shifts in AOV and order volume, with both declining in 2022</b>
 </div>
 
 <div align="center">
-<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/a24cf916-27b1-4ad7-b8db-86ca0b11cd03" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/380057ea-2b4b-4020-a848-6e231eb7f4b0" />
 </div>
 
 <table>
@@ -186,9 +187,9 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
 </table>
 
 ## Product Performance
-
-<img width="1073" height="380" alt="image" src="https://github.com/user-attachments/assets/3387e178-f0de-40d1-9d98-e5c748ac25d5" />
-
+<div align="center">
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/7fb92456-320c-41b0-8fa6-cf83c8a54f04" />
+</div>
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -209,9 +210,9 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
     </td>
   </tr>
 </table>
-
-<img width="1090" height="336" alt="image" src="https://github.com/user-attachments/assets/670da90c-62d4-43de-b8e6-8bda0a21f582" />
-
+<div align="center">
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/345c6e6c-fdb5-4468-ae1a-e3020648d500" />
+</div>
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -233,7 +234,7 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
 
 ## Marketing Channel Effectiveness
 <div align="center">
-<img width="1100" height="338" alt="image" src="https://github.com/user-attachments/assets/e0480af3-3792-4d92-b7b7-bbe03a8097b8" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/8bfbaba1-72ea-4820-8aeb-00e6d225da90" />
 </div>
 
 <table>
@@ -267,7 +268,7 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
       <div align="center">
         <b> Non member AOV declined in 2022</b>
         <br><br>
-       <img width="543" height="348" alt="image" src="https://github.com/user-attachments/assets/7e74dff7-2f18-45f6-8554-886793ecc312" />
+       <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/9c82d637-d12b-4b55-8f86-6eec2b5078c3" />
       </div>
     </td>
     <td valign="top" width="50%">
@@ -283,7 +284,7 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
       <div align="center">
         <b>Loyalty adoption reached a majority 55% share by 2022</b>
         <br><br>
-        <img width="557" height="347" alt="image" src="https://github.com/user-attachments/assets/15574ddc-db54-459a-9d64-ef0809d871ca" />
+        <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/29370401-b2b7-4985-b62b-83aed52a22b5" />
       </div>
     </td>
     <td valign="top" width="50%">
@@ -297,8 +298,7 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
 
 ## Regional Performance
 
-<img width="1065" height="341" alt="image" src="https://github.com/user-attachments/assets/3b62583f-e484-4d55-a906-552f7217701e" />
-
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/0415226e-31e7-4f9c-b01c-7f867cd73843" />
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -331,7 +331,7 @@ Revenue swings are tied to simultaneous shifts in AOV and order volume, with bot
 ## Customer Analysis
 
 <div align="center">
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/deda2c33-3018-46e9-ab1d-d5ab3e1e757c" />
+  <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/dc6c37da-8cd6-483e-ab8c-887d960d8b14" />
 </div>
 
 <table>
