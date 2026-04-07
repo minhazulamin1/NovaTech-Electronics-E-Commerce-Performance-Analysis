@@ -82,17 +82,17 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
     <tr>
       <td><b>Loyalty Programme</b></td>
       <td>Revenue share surged from <b>10.7% to 54.8%</b>. Member AOV (€245) now exceeds non-members (€214).</td>
-      <td>Shifts behavior toward <b>higher-spec variants</b> (+15% spend on Gaming Monitors).</td>
+      <td>55% of total revenue now flows through loyalty, programme maturation is driving higher-spec purchases.</td>
     </tr>
     <tr>
-      <td><b>Email Marketing</b></td>
-      <td>Only channel with positive trajectory; share nearly doubled from <b>8.1% to 15.7%</b>.</td>
-      <td>High-quality customer base; refund rates (4.8%) match Direct traffic.</td>
+      <td><b>27in Gaming Monitor</b></td>
+      <td>Single largest revenue driver at 35% of total revenue (€9.9M). Consistent performer across all four years.</td>
+      <td>Loyalty members spend 15% more on Gaming Monitors — the programme is directly lifting AOV on the business's biggest product.</td>
     </tr>
     <tr>
-      <td><b>Affiliate Channel</b></td>
-      <td>Highest-value customers at €303 AOV, 67% above email, 9% above direct. Only 2,900 orders total.</td>
-      <td>Proves high-AOV customers can be acquired outside direct. Scaling affiliate is the highest-quality growth lever available.</td>
+      <td><b>Direct Channel</b></td>
+      <td>Dominates at 83% of revenue. Held share better than overall revenue decline in 2022.</td>
+      <td>€3.8M in 2022 despite market headwinds, the most resilient part of the acquisition mix.</td>
     </tr>
   </tbody>
 </table>
