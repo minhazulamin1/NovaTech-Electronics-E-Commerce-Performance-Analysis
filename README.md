@@ -115,14 +115,14 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
       <td><b>€1.7M:</b> Value of converting just 5% of one-time buyers.</td>
     </tr>
     <tr>
-      <td><b>Laptop Refunds</b></td>
-      <td>ThinkPad (12%) and MacBook (11%) return rates are <b>2x the average</b>.</td>
-      <td><b>€1.1M:</b> Total refunded laptop revenue (3.9% of total base).</td>
+      <td><b>Macbook Concentration</b></td>
+      <td>Revenue share expanded from 15.7% to 28.9% in 2020 then collapsed. Single product explained 40% of the 2022 decline.</td>
+      <td><b>€1.0M revenue drop from one product line, concentration risk was never diversified.</td>
     </tr>
     <tr>
-      <td><b>Social Media Quality</b></td>
-      <td>Highest refund rates (8%) and worst performance on high-ticket items (18% for ThinkPads).</td>
-      <td><b>Risk Mitigation:</b> Reallocate spend to higher-intent channels.</td>
+      <td><b>Laptop Refunds</b></td>
+      <td>ThinkPad (12%) and MacBook (11%) return rates are 2x the category average.</td>
+      <td><b>€1.1M in refunded revenue — 3.9% of the total revenue base written back.</td>
     </tr>
   </tbody>
 </table>
