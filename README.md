@@ -117,12 +117,12 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
     <tr>
       <td><b>Macbook Concentration</b></td>
       <td>Revenue share expanded from 15.7% to 28.9% in 2020 then collapsed. Single product explained 40% of the 2022 decline.</td>
-      <td><b>€1.0M revenue drop from one product line, concentration risk was never diversified.</td>
+      <td>€1.0M revenue drop from one product line, concentration risk was never diversified.</td>
     </tr>
     <tr>
       <td><b>Laptop Refunds</b></td>
       <td>ThinkPad (12%) and MacBook (11%) return rates are 2x the category average.</td>
-      <td><b>€1.1M in refunded revenue, 3.9% of the total revenue base written back.</td>
+      <td>€1.1M in refunded revenue, 3.9% of the total revenue base written back.</td>
     </tr>
   </tbody>
 </table>
@@ -130,8 +130,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 ## Sales Trends and Seasonality
 
 <div align="center">
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ca6638e1-c995-4d36-b664-d7d35b7b3e8e" />
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/110c3af0-2e37-4fe8-8f51-79f887550f82" />
 </div>
 
 <table>
@@ -237,28 +236,28 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Marketing Channel Effectiveness
 <div align="center">
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8bfbaba1-72ea-4820-8aeb-00e6d225da90" />
+  <img width="1047" height="403" alt="image" src="https://github.com/user-attachments/assets/445b273e-324e-4c65-826a-c9af1c4146fc" />
 </div>
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-        <b>Direct traffic remains the core revenue driver but is losing share to emerging channels</b>
+        <b>Direct is the core revenue driver but cannot be scaled. Affiliate customers already spend more per order.</b>
       </div>
       <hr>
-      Direct traffic dominates at 83% of revenue but its share is declining: 85.5% in 2019 to 76.2% in 2022. In absolute terms, direct revenue still accounts for <b>€3.8M</b>; it held up better than overall revenue. As the direct channel share shrinks, it signaling a positive diversification of the acquisition mix.
+      Direct dominates at 84.9% of revenue in 2022. It is the backbone of the business but it cannot be attributed, targeted, or replicated intentionally. The business is not losing Direct, it simply cannot grow through it.
       <br><br>
-      <b>Affiliate</b> brings the highest-value customers at <b>€303 AOV</b> (67% above email). Despite low volume (2,900 orders total), affiliate demonstrates that high-value customers can be acquired through non-direct channels.
+      Affiliate tells the more interesting story.  Only 2.75% revenue contribution in 2022. <b>Affiliate</b> brings the highest-value customers at <b>€303 AOV</b> above Direct (€241), above Email (€183). Despite low volume (2,900 orders total), affiliate demonstrates that high-value customers can be acquired through non-direct channels.
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <b>Email is the primary growth engine—closing the AOV gap represents a €900K+ opportunity</b>
+        <b>Email is the primary growth engine, closing the AOV gap represents a €900K+ opportunity</b>
       </div>
       <hr>
-      Email is the clearest growth story, nearly doubling from 8.1% to 15.7% of revenue share. Email order volume grew from 1,824 to 4,247 annually. However, email AOV (€181) is significantly below affiliate (€303) and direct (€277). 
+      Email is the clearest growth story, nearly doubling from 8.06% to 15.70% of revenue share. Email order volume grew from 1,824 to 4,247 annually. However, email AOV (€181) is significantly below affiliate (€300) and direct (€241). 
       <br><br>
-      Closing this gap represents a <b>substantial opportunity</b>: if email's AOV reached direct-channel levels, incremental revenue would be ~€1.8M. Even closing 50% of this gap yields an additional <b>€900K in revenue</b>.
+      Closing this gap represents a <b>substantial opportunity</b>: If email's AOV reached direct-channel levels, incremental revenue would be ~€1.8M. Even closing 50% of this gap yields an additional <b>€900K in revenue</b>.
     </td>
   </tr>
 </table>
