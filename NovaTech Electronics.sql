@@ -8,9 +8,9 @@ FROM core.orders;
 
 -- The AOV for purchases made in the US in 2019.
 SELECT
-    Avg(usd_price) as usd_aov
+    Avg(usd_price) as eur_aov
 FROM 'core.orders'
-WHERE currency = 'USD'
+WHERE currency = 'EUR'
 AND Extract(year from purchase_ts) = 2019;
 
 -- Account creation dates for accounts made on desktop and mobile. 
@@ -33,10 +33,10 @@ WHERE account_creation_method = 'mobile'
 OR account_creation_method = 'desktop'
 ORDER BY 2;
 
--- Unique products sold in AUD.
+-- Unique products sold in EUR.
 SELECT DISTINCT product_name
 FROM 'core.orders'
-WHERE currency = 'AUD'
+WHERE currency = 'EUR'
 AND purchase_platform = 'mobile app'
 ORDER BY 1 ASC;
 
