@@ -34,7 +34,7 @@ The analysis covers seven areas:
 
 The dataset consists of four tables with 108,127 order records:
 <div align="center">
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/09ea004f-69d5-4640-a498-367ac6724c7a" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/09ea004f-69d5-4640-a498-367ac6724c7a" />
 </div>
 
 ## Executive Summary
@@ -55,7 +55,7 @@ Total addressable opportunity: ~€2.9M, or 58% of the 2022 revenue base.
 **Revenue Decomposition**
 
 <div align="center">
-  <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/5cb6e2c6-19af-4776-8110-b051517b0df7" />
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/5cb6e2c6-19af-4776-8110-b051517b0df7" />
 
 </div>
 
@@ -130,7 +130,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 ## Sales Trends and Seasonality
 
 <div align="center">
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/110c3af0-2e37-4fe8-8f51-79f887550f82" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/110c3af0-2e37-4fe8-8f51-79f887550f82" />
 </div>
 
 <table>
@@ -157,11 +157,11 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 </table>
 
 <div align="center">
-  <b>December peaks are fading while strong early-year months now drive performance</b>
+<h3>December peaks are fading while strong early-year months now drive performance</h3>
 </div>
 
 <div align="center">
-  <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/c8d75a42-c292-4325-afa3-f6c0113d08ba" />
+  <img width="900" alt="image" src="https://github.com/user-attachments/assets/c8d75a42-c292-4325-afa3-f6c0113d08ba" />
 </div>
 
 <table>
@@ -173,11 +173,11 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 </table>
 
 <div align="center">
-<b>Revenue swings are tied to simultaneous shifts in AOV and order volume, with both declining in 2022</b>
+<h3>Revenue swings are tied to simultaneous shifts in AOV and order volume, with both declining in 2022</h3>
 </div>
 
 <div align="center">
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/380057ea-2b4b-4020-a848-6e231eb7f4b0" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/380057ea-2b4b-4020-a848-6e231eb7f4b0" />
 </div>
 
 <table>
@@ -190,7 +190,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Product Performance
 <div align="center">
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7fb92456-320c-41b0-8fa6-cf83c8a54f04" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/7fb92456-320c-41b0-8fa6-cf83c8a54f04" />
 </div>
 <table>
   <tr>
@@ -213,7 +213,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
   </tr>
 </table>
 <div align="center">
-  <img width="2000" height="900" alt="image" src="https://github.com/user-attachments/assets/345c6e6c-fdb5-4468-ae1a-e3020648d500" />
+  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/345c6e6c-fdb5-4468-ae1a-e3020648d500" />
 </div>
 <table>
   <tr>
@@ -236,7 +236,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Marketing Channel Effectiveness
 <div align="center">
-  <img width="1047" height="403" alt="image" src="https://github.com/user-attachments/assets/445b273e-324e-4c65-826a-c9af1c4146fc" />
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/445b273e-324e-4c65-826a-c9af1c4146fc" />
 </div>
 
 <table>
@@ -300,7 +300,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 
 ## Regional Performance
 
-<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/0415226e-31e7-4f9c-b01c-7f867cd73843" />
+<img width="1100" alt="image" src="https://github.com/user-attachments/assets/0415226e-31e7-4f9c-b01c-7f867cd73843" />
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -333,7 +333,7 @@ Decomposing by product mix: MacBook Air revenue fell 55% YoY (€1.9M to €0.9M
 ## Customer Analysis
 
 <div align="center">
-  <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/dc6c37da-8cd6-483e-ab8c-887d960d8b14" />
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/dc6c37da-8cd6-483e-ab8c-887d960d8b14" />
 </div>
 
 <table>
