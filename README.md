@@ -34,7 +34,7 @@ The analysis covers seven areas:
 
 The dataset consists of four tables with 108,127 order records:
 <div align="center">
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/09ea004f-69d5-4640-a498-367ac6724c7a" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/09ea004f-69d5-4640-a498-367ac6724c7a" />
 </div>
 
 ## Executive Summary
